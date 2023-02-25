@@ -18,4 +18,4 @@ If $a$ and $\overline{a}$ are roots or real polynomial $P(x)$, then $P(x)$ is di
 There fore, if $c$ is some root of $P(x)$, then:
 
 1) If $c$ is real, then $P(x)$ is divisible by $(x-c)$ (polynomial of degree 1).
-2) If $c$ is complex, then $P(x)$ is divisible by $(x-c)(x-\overline{x})$. By Fact 1, this polynomial has real coefficients and degree 1. $\blacksquare$
+2) If $c$ is complex, then $P(x)$ is divisible by $(x-c)(x-\overline{x})$. By Fact 1, this polynomial has real coefficients and degree 2. $\blacksquare$
