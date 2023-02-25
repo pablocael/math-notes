@@ -7,7 +7,7 @@ This is a direct consequence of the Fundamental Theorem of Algebra (FTA), as can
 
 Any non constant complex polynomial can be factored into monomials (by FTA). If the polynomial is real, then every complex root also have a its conjugate as root, because:
 
-If $ a \in \mathbb{C} $ is root of $P(x)$, a polynomial with real coefficients, then
+If $a \in \mathbb{C}$ is root of $P(x)$, a polynomial with real coefficients, then
 
 $P(a) = 0 \implies \overline{P(a)} = \overline{0} \implies P(\overline{a}) = 0$
 
